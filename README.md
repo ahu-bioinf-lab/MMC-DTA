@@ -1,6 +1,6 @@
 # MMC-DTA
 
-A **multi-modal contrastive learning-based drug–target affinity prediction model** for anti-parasitic drug discovery.
+**A multi-modal contrastive learning-based drug–target affinity prediction model for anti-parasitic drug discovery.**
 
 ---
 
